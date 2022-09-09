@@ -6,5 +6,6 @@ public class GitHub {
         System.out.println("GitHub2");
         System.out.println("GitHub3");
         System.out.println("GitHub4");
+        System.out.println("Master");
     }
 }
